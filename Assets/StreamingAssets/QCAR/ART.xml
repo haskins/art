@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gm20c" size="200.000000 103.129768" />
+    <ImageTarget name="e7e" size="200.000000 33.728760" />
+    <ImageTarget name="e7d" size="200.000000 188.509872" />
+    <ImageTarget name="e7c" size="200.000000 41.288013" />
+    <ImageTarget name="gm20b" size="200.000000 150.000000" />
+    <ImageTarget name="n1b" size="200.000000 74.476189" />
+    <ImageTarget name="gm11b" size="200.000000 82.703613" />
+    <ImageTarget name="e9b" size="200.000000 114.672409" />
+    <ImageTarget name="e7b" size="200.000000 25.435074" />
+    <ImageTarget name="e5b" size="200.000000 39.771862" />
+    <ImageTarget name="t2" size="200.000000 319.217072" />
+    <ImageTarget name="t1" size="200.000000 51.243404" />
+    <ImageTarget name="gm02b" size="200.000000 76.057533" />
+    <ImageTarget name="gm23b" size="200.000000 169.890335" />
+    <ImageTarget name="gm24" size="200.000000 252.906403" />
+    <ImageTarget name="gm22" size="200.000000 159.202820" />
+    <ImageTarget name="gm21" size="200.000000 246.877670" />
+    <ImageTarget name="gm20" size="200.000000 153.191483" />
+    <ImageTarget name="gm19" size="200.000000 314.087769" />
+    <ImageTarget name="gm18" size="200.000000 208.071747" />
+    <ImageTarget name="gm17" size="200.000000 130.263153" />
+    <ImageTarget name="gm16" size="200.000000 145.690842" />
+    <ImageTarget name="gm15" size="200.000000 200.000000" />
+    <ImageTarget name="gm14" size="200.000000 274.127716" />
+    <ImageTarget name="gm13" size="200.000000 259.073364" />
+    <ImageTarget name="gm12" size="200.000000 195.986160" />
+    <ImageTarget name="gm11" size="200.000000 131.888550" />
+    <ImageTarget name="gm10" size="200.000000 126.539276" />
+    <ImageTarget name="gm09" size="200.000000 53.103695" />
+    <ImageTarget name="gm08" size="200.000000 134.196884" />
+    <ImageTarget name="gm07" size="200.000000 268.571442" />
+    <ImageTarget name="gm06" size="200.000000 63.989292" />
+    <ImageTarget name="gm05" size="200.000000 320.279724" />
+    <ImageTarget name="gm04" size="200.000000 150.271439" />
+    <ImageTarget name="gm03" size="200.000000 139.878372" />
+    <ImageTarget name="gm02" size="200.000000 51.931717" />
+    <ImageTarget name="gm01" size="200.000000 289.547333" />
+    <ImageTarget name="n13-agorasteps2" size="200.000000 114.400002" />
+    <ImageTarget name="n14-overlookadmin" size="200.000000 67.599792" />
+    <ImageTarget name="n12-birds" size="200.000000 132.717194" />
+    <ImageTarget name="n11-fireplace" size="200.000000 42.496681" />
+    <ImageTarget name="n10-forestlab" size="200.000000 129.245285" />
+    <ImageTarget name="n9-anthill" size="200.000000 177.927658" />
+    <ImageTarget name="n8-bentsign" size="200.000000 56.309448" />
+    <ImageTarget name="n7-paintbent" size="200.000000 127.253883" />
+    <ImageTarget name="n6-paintart" size="200.000000 81.601234" />
+    <ImageTarget name="n5-mednativeart" size="200.000000 188.314377" />
+    <ImageTarget name="n4-mostache" size="200.000000 254.122803" />
+    <ImageTarget name="n3-baromter" size="200.000000 732.004700" />
+    <ImageTarget name="n2-paintinghills" size="200.000000 144.314377" />
+    <ImageTarget name="n1-motherboard" size="200.000000 249.449203" />
+    <ImageTarget name="e9-fish" size="200.000000 150.000000" />
+    <ImageTarget name="e10-motherboard" size="200.000000 249.449203" />
+    <ImageTarget name="e8-alumni" size="200.000000 297.631592" />
+    <ImageTarget name="e7-boat" size="200.000000 116.820442" />
+    <ImageTarget name="e5-model" size="200.000000 123.236313" />
+    <ImageTarget name="e6-street" size="200.000000 59.012444" />
+    <ImageTarget name="e4-canforwg" size="200.000000 35.103928" />
+    <ImageTarget name="e3-senate" size="200.000000 209.976242" />
+    <ImageTarget name="e2-moose" size="200.000000 148.837204" />
+    <ImageTarget name="e1-nuggs" size="200.000000 74.019608" />
+  </Tracking>
+</QCARConfig>

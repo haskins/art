@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Year 4/Current Courses/ART - Augmented Reality Tour/Project/Assets/Scripts/SaveLoad.cs">
+    <Files>
+      <File FileName="../../../../Year 4/Current Courses/ART - Augmented Reality Tour/Project/Assets/Scripts/SaveLoad.cs" Line="45" Column="7" />
+      <File FileName="Assets/Scripts/CustomParse.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HintHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SaveLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UpdateStats.cs" Line="1" Column="1" />
+      <File FileName="../../../../Year 4/Current Courses/ART - Augmented Reality Tour/Project/Assets/Qualcomm Augmented Reality/Scripts/DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="../../../../Year 4/Current Courses/ART - Augmented Reality Tour/Project/Assets/Scripts/HuntHintHelpUpdate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
